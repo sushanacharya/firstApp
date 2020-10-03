@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.navadroid.androidonclickevent.Option2Activity"
+android:orientation="vertical"
+android:padding="@dimen/large_spacing">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:text="2"
+    android:textAppearance="@style/text_title"
+    android:layout_marginBottom="@dimen/small_spacing"/>
+
+<EditText
+    android:id="@+id/et_input_2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:inputType="text"
+    android:text=""
+    tools:ignore="LabelFor"
+    android:hint="@string/et_input_hint"
+    android:layout_marginBottom="@dimen/small_spacing" />
+
+<Button
+    android:id="@+id/btn_process_2"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/touch_target_size"
+    android:text="@string/process"
+    android:layout_marginBottom="@dimen/small_spacing" />
+
+<TextView
+    android:id="@+id/tv_body_2"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:text="@string/tv_output_init"
+    android:textAppearance="@style/text_title"
+    android:background="@color/colorAccent"/>
+
+</LinearLayout>

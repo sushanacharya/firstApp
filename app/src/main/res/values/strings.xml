@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android OnClick Event</string>
+    <string name="process">Process</string>
+    <string name="greeting">Hello</string>
+    <string name="et_input_hint">Type your name here</string>
+    <string name="tv_output_init"></string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android OnClick Event</string>
+    <string name="greeting">สวัสดี</string>
+    <string name="process">ประมวลผล</string>
+    <string name="et_input_hint">กรุณาพิมพ์ชื่อของคุณ</string>
+    <string name="tv_output_init"></string>
+
+</resources>

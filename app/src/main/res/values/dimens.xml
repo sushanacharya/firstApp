@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_spacing">16dp</dimen>
+    <dimen name="small_spacing">8dp</dimen>
+    <dimen name="touch_target_size">48dp</dimen>
+
+    <dimen name="text_title">45sp</dimen>       <!-- @style/Base.TextAppearance.AppCompat.Display2 -->
+    <dimen name="text_subtitle">34sp</dimen>    <!-- @style/Base.TextAppearance.AppCompat.Display1 -->
+    <dimen name="text_header_1">24sp</dimen>    <!-- @style/Base.TextAppearance.AppCompat.Headline -->
+    <dimen name="text_header_2">20sp</dimen>    <!-- @style/Base.TextAppearance.AppCompat.Title -->
+    <dimen name="text_header_3">16sp</dimen>    <!-- @style/Base.TextAppearance.AppCompat.Subheading -->
+    <dimen name="text_normal">14sp</dimen>      <!-- @style/Base.TextAppearance.AppCompat.Body1 -->
+
+</resources>
